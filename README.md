@@ -1,7 +1,7 @@
 # NitroSniper
 
 [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/XinGodDev/Discord_Nitro_Sniper&title=Views)](https://github.com/XinGodDev/Discord_Nitro_Sniper)                    
-Discord Nitro sniper and Giveaway joiner 
+Discord Nitro sniper
 
 ![Screenshot](Screenshot.png)
 
