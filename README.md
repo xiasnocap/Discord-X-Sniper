@@ -1,2 +1,20 @@
-# Discord_Nitro_Sniper
-A Fastest and Colored Discord Nitro Sniper 
+# NitroSniper
+
+[![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/XinGodDev/Discord_Nitro_Sniper&title=Views)](https://github.com/XinGodDev/Discord_Nitro_Sniper)                    
+Discord Nitro sniper and Giveaway joiner 
+
+![Screenshot](Screenshot.png)
+
+
+### USE :
+```
+pip install -r requirements.txt
+python "$$$ Discord X Sniper.py"
+```
+
+### How to obtain your token
+https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-IDs#how-to-get-a-user-token
+
+
+### Disclaimer
+This can get your account banned if you run multiple instance at the same time and/or claim too much Nitros in a too short amount of time. Use it at your own risks.
