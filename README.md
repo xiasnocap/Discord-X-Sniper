@@ -3,7 +3,7 @@
 [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/XinGodDev/Discord_Nitro_Sniper&title=Views)](https://github.com/XinGodDev/Discord_Nitro_Sniper)                    
 Discord Nitro sniper
 
-![Screenshot](Screenshot.png)
+![Views](https://i.ibb.co/rsQVM6C/Screenshot.png)
 
 
 ### USE :
